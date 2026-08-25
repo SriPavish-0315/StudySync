@@ -1,1 +1,1 @@
-﻿{"commit":23,"date":"2026-08-25 12:00:00 +0530","msg":"feat(middleware): add Multer file upload filter"}
+﻿{"commit":24,"date":"2026-08-25 12:00:00 +0530","msg":"feat(middleware): add centralized Express error handler"}
