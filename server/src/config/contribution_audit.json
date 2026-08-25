@@ -1,1 +1,1 @@
-﻿{"commit":24,"date":"2026-08-25 12:00:00 +0530","msg":"feat(middleware): add centralized Express error handler"}
+﻿{"commit":25,"date":"2026-08-25 12:00:00 +0530","msg":"feat(middleware): add express-validator sanitization"}
