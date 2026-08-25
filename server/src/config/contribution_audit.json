@@ -1,1 +1,1 @@
-﻿{"commit":20,"date":"2026-08-25 12:00:00 +0530","msg":"feat(middleware): add JWT authentication token extraction"}
+﻿{"commit":21,"date":"2026-08-25 12:00:00 +0530","msg":"feat(middleware): add group membership authorization check"}
