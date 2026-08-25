@@ -1,1 +1,1 @@
-﻿{"commit":21,"date":"2026-08-25 12:00:00 +0530","msg":"feat(middleware): add group membership authorization check"}
+﻿{"commit":22,"date":"2026-08-25 12:00:00 +0530","msg":"feat(middleware): add role-based authorization guard"}
