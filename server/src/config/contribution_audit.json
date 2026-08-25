@@ -1,1 +1,1 @@
-﻿{"commit":9,"date":"2026-08-25 12:00:00 +0530","msg":"feat(aws): configure AWS S3 bucket SDK client"}
+﻿{"commit":10,"date":"2026-08-25 12:00:00 +0530","msg":"feat(models): add User schema with bcrypt password hashing"}
