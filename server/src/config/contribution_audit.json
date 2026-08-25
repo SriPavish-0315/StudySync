@@ -1,1 +1,1 @@
-﻿{"commit":5,"date":"2026-08-25 12:00:00 +0530","msg":"feat(server): initialize HTTP server and Socket.io listener"}
+﻿{"commit":6,"date":"2026-08-25 12:00:00 +0530","msg":"feat(server): configure Express application middleware"}
