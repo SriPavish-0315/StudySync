@@ -1,1 +1,1 @@
-﻿{"commit":141,"date":"2026-08-27 12:00:00 +0530","msg":"feat(socket): implement room presence and WebRTC signaling"}
+﻿{"commit":142,"date":"2026-08-27 12:00:00 +0530","msg":"build(client): configure React client package dependencies"}
