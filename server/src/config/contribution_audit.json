@@ -1,1 +1,1 @@
-﻿{"commit":147,"date":"2026-08-28 12:00:00 +0530","msg":"feat(client): add AuthContext state hydration"}
+﻿{"commit":148,"date":"2026-08-28 12:00:00 +0530","msg":"feat(client): add SocketContext connection manager"}
