@@ -1,1 +1,1 @@
-﻿{"commit":188,"date":"2026-08-30 12:00:00 +0530","msg":"feat(socket): add standardized socket events registry"}
+﻿{"commit":189,"date":"2026-08-30 12:00:00 +0530","msg":"feat(socket): add socket connection lifecycle manager"}
