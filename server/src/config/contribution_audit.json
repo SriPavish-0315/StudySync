@@ -1,1 +1,1 @@
-﻿{"commit":184,"date":"2026-08-30 12:00:00 +0530","msg":"test(concurrency): add concurrent booking race condition test"}
+﻿{"commit":185,"date":"2026-08-30 12:00:00 +0530","msg":"feat(services): add bookingService mutex concurrency control"}
